@@ -37,8 +37,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dimma01/Frontend-Mentor-Challenges/edit/main/Solution-Frontend-Mentor/Solution-Frontend-Mentor_HTML&CSS/testimonials-grid-section-main)
-- Live Site URL: [Add live site URL here](https://playful-salmiakki-f92d13.netlify.app/)
+- Solution URL: (https://github.com/dimma01/Frontend-Mentor-Challenges/edit/main/Solution-Frontend-Mentor/Solution-Frontend-Mentor_HTML&CSS/testimonials-grid-section-main)
+- Live Site URL: (https://playful-salmiakki-f92d13.netlify.app/)
 
 ## My process
 
@@ -71,9 +71,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@dimma01](https://www.frontendmentor.io/profile/dimma01)
+- GitHub [@dimma01](https://github.com/dimma01)
+- Twitter [@sheunemmanuel01](https://twitter.com/sheunemmanuel01?t=ZflkwHgV9IiOzZOAQJsukA&s=09)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
